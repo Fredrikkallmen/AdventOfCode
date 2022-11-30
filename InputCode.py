@@ -1,0 +1,7 @@
+
+class InputCode():
+    
+    inputcode =
+    """
+    adfadsf
+    """
