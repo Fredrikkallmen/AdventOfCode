@@ -1,7 +1,0 @@
-
-class InputCode():
-    
-    inputcode =
-    """
-    adfadsf
-    """
