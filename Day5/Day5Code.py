@@ -9,12 +9,12 @@ inputcode = my_file.readlines()
 import array
 
 #All possible columns where crates can be placed.
-# Bottom ---------------------------------------------Top
+#      Bottom ---------------------------------------------Top
 # 1
 # 2
 # 3
 # Cont.
-#"""
+
 box_array = [
             ["N", "B", "D", "T", "V", "G", "Z", "J"],
             ["S", "R", "M", "D", "W", "P", "F"],
@@ -26,8 +26,6 @@ box_array = [
             ["Z", "B", "P", "N"],
             ["W", "P", "W"]
             ]
-#"""
-#box_array = [["Z","N"],["M","C","D"],["P"]]
 
 
 for movement in inputcode:
