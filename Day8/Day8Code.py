@@ -15,7 +15,7 @@ def matrix_creation(input):
         for i in range(len(input)):
             matrix[j][i] = row[i]
         j += 1   
-    #print(matrix)     
+    print(matrix)     
     return matrix
 
 
